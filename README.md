@@ -1,2 +1,2 @@
 # pentaset-loader
-loader page for pentaset.net
+temporary loader page for pentaset.net
